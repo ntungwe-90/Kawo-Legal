@@ -1,0 +1,93 @@
+.main-head{
+    background-color: rgb(66, 10, 2);
+    margin-bottom: 10px;
+}
+
+
+.logo1{
+    width: 170px;
+    height: 70px;
+    margin-left: 30px;
+}
+
+
+.nav-right{
+    margin:20px 50px;
+    font-weight: bold;
+    padding: -10px;
+}
+
+
+#border{
+    color: rgb(196, 48, 22);
+}
+
+
+#border:hover{
+ border: 2px solid rgb(196, 48, 22);
+ color: rgb(196, 48, 22);
+
+}
+
+
+.active-border{
+    border: 2px solid rgb(196, 48, 22);
+    color: rgb(196, 48, 22);
+}
+
+
+
+.searchbtn{
+    background-color: rgb(40, 142, 189);
+    color: white;  
+}
+
+
+.zooming{
+    width:80px;
+    height: 80px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+
+.right-zoom{
+    margin-top: 20px;
+}
+
+
+
+.sleek-job{
+    width:100px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+
+.text{
+    margin-bottom: 5px;
+}
+
+
+.footer{
+    margin-top: 500px;
+    background-color: rgb(66, 10, 2);
+    color: white;
+    height: 100px;
+}
+
+
+.left-footer{
+    padding: 20px 0px 0px 150px;
+}
+
+
+.right-footer{  
+    padding: -20px;
+    margin-right: 20px;
+ } 
+
+
+  .social-media-logos{
+     margin-left: 600px;
+ }
